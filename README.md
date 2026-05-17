@@ -63,13 +63,13 @@ File tạo bảng đầy đủ nằm ở `sql/schema.sql`. File dữ liệu mẫ
 3. Chạy file:
 
 ```sql
-SOURCE C:/Users/anhar/OneDrive/Documents/codeforces-analyzer/sql/schema.sql;
+SOURCE C:/codeforces-analyzer/sql/schema.sql;
 ```
 
 4. Nếu muốn có dữ liệu mẫu:
 
 ```sql
-SOURCE C:/Users/anhar/OneDrive/Documents/codeforces-analyzer/sql/sample-data.sql;
+SOURCE C:/codeforces-analyzer/sql/sample-data.sql;
 ```
 
 ## Cấu hình ứng dụng
